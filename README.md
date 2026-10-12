@@ -4,10 +4,11 @@ A growing collection of short articles on vibration, shock, acoustics, and struc
 
 ## Reading index
 
-14 articles · September 30–October 11, 2026
+15 articles · September 30–October 12, 2026
 
 | Date | Article | Edition | Pages |
 | --- | --- | --- | ---: |
+| 2026-10-12 | [When SEA earns its averages](articles/2026/10/2026-10-12_VSA_Lesson_When_SEA_Earns_Its_Averages.pdf) | Daily | 5 |
 | 2026-10-11 | [The damping number that refuses to stay put](articles/2026/10/2026-10-11_VSA_Lesson_Damping_That_Changes_With_Amplitude.pdf) | Daily | 5 |
 | 2026-10-10 | [Where the Blue Angels roar comes from](articles/2026/10/2026-10-10_VSA_Lesson_Special_Falcone_Family_Blue_Angels_Noise.pdf) | Falcone family special | 5 |
 | 2026-10-10 | [Cavitation changes the circuit](articles/2026/10/2026-10-10_VSA_Lesson_Cavitation_Compliance_and_Feed_System_Dynamics.pdf) | Daily | 5 |
