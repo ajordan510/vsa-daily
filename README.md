@@ -4,10 +4,11 @@ A growing collection of short articles on vibration, shock, acoustics, and struc
 
 ## Reading index
 
-17 articles · September 30–October 14, 2026
+18 articles · September 30–October 15, 2026
 
 | Date | Article | Edition | Pages |
 | --- | --- | --- | ---: |
+| 2026-10-15 | [When damping tips a spinning spacecraft](articles/2026/10/2026-10-15_VSA_Lesson_Explorer_1_Damping.pdf) | Daily | 5 |
 | 2026-10-14 | [When a stiffer panel lets more sound through](articles/2026/10/2026-10-14_VSA_Lesson_Acoustic_Coincidence.pdf) | Daily | 5 |
 | 2026-10-13 | [When modes trade places](articles/2026/10/2026-10-13_VSA_Lesson_When_Modes_Trade_Places.pdf) | Daily | 5 |
 | 2026-10-12 | [When SEA earns its averages](articles/2026/10/2026-10-12_VSA_Lesson_When_SEA_Earns_Its_Averages.pdf) | Daily | 5 |
