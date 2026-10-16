@@ -4,10 +4,11 @@ A growing collection of short articles on vibration, shock, acoustics, and struc
 
 ## Reading index
 
-18 articles · September 30–October 15, 2026
+19 articles · September 30–October 16, 2026
 
 | Date | Article | Edition | Pages |
 | --- | --- | --- | ---: |
+| 2026-10-16 | [Before the hammer: pre-test analysis for a small finned rocket](articles/2026/10/2026-10-16_VSA_Lesson_Finned_Rocket_Pretest_Analysis.pdf) | Daily | 6 |
 | 2026-10-15 | [When damping tips a spinning spacecraft](articles/2026/10/2026-10-15_VSA_Lesson_Explorer_1_Damping.pdf) | Daily | 5 |
 | 2026-10-14 | [When a stiffer panel lets more sound through](articles/2026/10/2026-10-14_VSA_Lesson_Acoustic_Coincidence.pdf) | Daily | 5 |
 | 2026-10-13 | [When modes trade places](articles/2026/10/2026-10-13_VSA_Lesson_When_Modes_Trade_Places.pdf) | Daily | 5 |
