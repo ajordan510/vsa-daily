@@ -1,6 +1,6 @@
 # VS&A Daily
 
-A growing collection of short articles on vibration, shock, acoustics, and structural dynamics, prepared for Alex Jordan. Each PDF includes its references, figures, and worked examples.
+A growing collection of short articles on vibration, shock, acoustics, and structural dynamics, prepared for Alex Jordan. Each PDF includes its references, figures, and worked examples. The repository also includes hands-on training assignments.
 
 ## Reading index
 
@@ -28,15 +28,25 @@ A growing collection of short articles on vibration, shock, acoustics, and struc
 | 2026-10-01 | [Legacy sine sweeps versus random fatigue](articles/2026/10/2026-10-01_VSA_Lesson_Sine_Sweep_vs_Random_Fatigue.pdf) | Daily | 6 |
 | 2026-09-30 | [Why equal gRMS does not mean equal fatigue damage](articles/2026/09/2026-09-30_VSA_Lesson_Equal_gRMS_Unequal_Fatigue.pdf) | Daily | 6 |
 
+## Training projects
+
+| Added | Project | Format | Pages |
+| --- | --- | --- | ---: |
+| 2026-10-20 | [NASA CRM fuselage vibroacoustics](projects/crm-vibroacoustics/Generic_Vehicle_Vibroacoustics_Training_Assignment.docx) | Word | 4 |
+
+An informal Wave6 mentoring assignment in English engineering units, with NASA CRM pictures and three phases: a simplified fuselage model build, turbulent boundary layer (TBL) excitation and parameter definition, and structural sensitivity to aluminum choices. Includes prescribed ring-frame geometry and optional stringers to keep the build manageable.
+
 ## Archive layout
 
-PDFs are organized under `articles/YYYY/MM/`, retaining their original dated filenames. The archive contains the finished PDFs as delivered, including bonus and special editions.
+PDFs are organized under `articles/YYYY/MM/`, retaining their original dated filenames. The archive contains the finished PDFs as delivered, including bonus and special editions. Training assignments are organized by project under `projects/`.
 
 - [Catalog](catalog.csv): dates, titles, editions, page counts, and file paths.
-- [SHA-256 checksums](SHA256SUMS): integrity checks for the archived PDFs.
+- [SHA-256 checksums](SHA256SUMS): integrity checks for the archived articles and training assignments.
 
 ## Adding an article
 
 Place the dated PDF in its year/month folder, add a row to the reading index and catalog, and update its checksum. Keep different dates and special editions as separate files; record revisions to an existing lesson through Git history.
 
-Image credits and source links remain in each article. Third-party source materials retain their original rights and attribution.
+For training assignments, add the document under `projects/`, link it in the training projects table, and update the catalog and checksum.
+
+Image credits and source links remain in each document. Third-party source materials retain their original rights and attribution.
