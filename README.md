@@ -4,10 +4,11 @@ A growing collection of short articles on vibration, shock, acoustics, and struc
 
 ## Reading index
 
-26 articles · September 30–October 22, 2026
+27 articles · September 30–October 23, 2026
 
 | Date | Article | Edition | Pages |
 | --- | --- | --- | ---: |
+| 2026-10-23 | [The resonance your sweep never had time to build](articles/2026/10/2026-10-23_VSA_Lesson_Sine_Sweep_Ringup.pdf) | Daily | 6 |
 | 2026-10-22 | [The peak that grows while gRMS stays still](articles/2026/10/2026-10-22_VSA_Lesson_Peak_Factor_Duration.pdf) | Daily | 6 |
 | 2026-10-21 | [Predicting component shock after a design change](articles/2026/10/2026-10-21_VSA_Special_FEM_Shock_Response.pdf) | Special | 8 |
 | 2026-10-21 | [The stiffness hiding above your modal cutoff](articles/2026/10/2026-10-21_VSA_Lesson_Residual_Flexibility.pdf) | Daily | 6 |
